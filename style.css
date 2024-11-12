@@ -1,0 +1,259 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100vh;
+  color: white;
+ color: rgb(255, 255, 255);
+}
+
+h1{
+color: black;
+}
+
+h2{
+color: black;
+padding-left: 10px;
+}
+
+h3{
+color: black;
+}
+
+nav {
+  display: flex;
+  width: 100%;
+  padding: 2rem;
+  min-height: 10vh;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: auto;
+  justify-content: space-between;
+  background-color:rgb(55, 187, 68) ;
+}
+nav ul {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+nav li {
+  font-size: 2.5rem;
+  padding: 0 4rem 0 4rem;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+nav img {
+  width: 5vw;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+
+#picca{
+padding-left: 80%;
+}
+
+#hoi{
+  color: black;
+  font-size: 40px;
+}
+
+p{
+color: black;
+}
+
+.Overzicht{
+  font-size: 30px;
+  color: black;
+  
+}
+
+footer{
+  font-size: 15px;
+  padding-right: 90%;
+  padding-bottom: 3%;
+  text-align: left;
+  background-color:rgb(55, 187, 68) ;
+}
+
+#footertxt{
+  color: white;
+}
+
+#piccalocatie{
+padding-left: 80%;
+margin-top: -480px;
+}
+  
+#adress{
+  padding-left: 80%;
+  padding-top: 10px;
+}
+
+.locatiegidstxt{
+font-size: medium;
+margin-right: 62%;
+background-color: rgb(191, 225, 236);
+border-style: solid;
+}
+
+#Veiligheid{
+color: black;
+font-size: large;
+}
+
+#Gedragscode{
+color: black;
+font-size: large;
+}
+
+#canvasttl{
+color: black;
+font-size: xx-large;
+}
+
+#canvastxt{
+color: black;
+font-size: x-large;
+}
+
+#canvasimg{
+float: right;
+height: 400px;
+padding-right: 250px;
+margin-top: -25%;
+}
+
+#canvastekst{
+margin-right: 60%;  
+font-size: large;
+background-color: rgb(236, 172, 104);
+border-style: solid;
+line-height: 27px;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 10px;
+}
+
+body{
+background-image: url();
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#bsatxt{
+margin-right: 55%;
+font-size: medium;
+padding-left: 10px;
+background-color: aliceblue;
+border-style: dashed;
+}
+
+.bsatekst{
+margin-right: 50%;
+font-size: small;
+background-color: rgb(186, 225, 239);
+border-style: solid;
+padding-left: 10px;
+}
+
+#bsapicca{
+float: right;
+margin-top: -30%;
+padding-right: 10%;
+}
+
+#navcanvas{
+background-color: rgb(255, 60, 0);
+}
+
+#footercanvas{
+background-color: rgb(255, 60, 0);
+}
+
+#navbsa{
+background-color: dodgerblue;
+}
+
+#footerbsa{
+background-color: dodgerblue;
+}
+
+#navhome{
+background-color: rgb(55, 187, 68);
+}
+
+#footerhome{
+background-color:  rgb(55, 187, 68);
+}
+
+#navvp{
+background-color:rgb(55, 187, 68) ;
+}
+
+#footervp{
+background-color:rgb(55, 187, 68) ;
+}
+
+.info-item{
+background-color: rgb(218, 234, 218);
+font-size: 16px;
+}
+
+#locpicca{
+float: right;
+height: 250px;
+padding-right: 250px;
+margin-top: -25%;
+
+}
+
+#navloc{
+background-color: rgb(128, 205, 230);
+}
+
+#footerloc{
+background-color:  rgb(128, 205, 230);
+}
+
+.bron{
+
+font-size: medium;  
+
+}
+
+
+#plaatjebsa{
+padding-left: 66%;
+margin-top: -14%;
+}
+
+#plaatjecanvas{
+padding-left: 60%;
+margin-top: -4%;
+}
+
+#plaatjelocatiegids{
+padding-left: 60%;
+margin-top: -10%;
+}
+
+#plaatjehome{
+float: right;  
+}
+
+#tcrlogo{
+float: right;
+
+}
